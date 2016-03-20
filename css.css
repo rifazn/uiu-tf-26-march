@@ -1,0 +1,15 @@
+body {
+	background-color: #E08E45;
+	color: #D91E36;
+}
+
+#container {
+	width: 600px;
+	margin: auto;
+}
+
+#logo {
+	display: block;
+	width: 400px;
+	margin-left: 100px;
+}
