@@ -1,6 +1,12 @@
 body {
 	background-color: #E08E45;
 	color: #D91E36;
+	font-family: sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-size: 30px;
 }
 
 #container {
@@ -12,4 +18,12 @@ body {
 	display: block;
 	width: 400px;
 	margin-left: 100px;
+}
+
+/*#middle {
+	margin-left: 200px;
+}*/
+
+#contact {
+	text-align: center;
 }
